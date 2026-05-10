@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+myenv/
+
+# Local data
+data/
+
+
+# Training runs / weights
+runs/
+*.pt
+
+# OS / editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
