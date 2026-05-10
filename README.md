@@ -436,6 +436,6 @@ The demo output video can be viewed here:
 
 The trained model weights can be downloaded here:
 
-- YOLO Detector Weights (`best.pt`): [Google Drive Link](https://drive.google.com/drive/folders/11MUWoXA6QRaBqiLJh01k1LuyKFnp4RY8?usp=drive_link
+- YOLO Detector Weights (`best.pt`): [Google Drive Link](https://drive.google.com/drive/folders/11MUWoXA6QRaBqiLJh01k1LuyKFnp4RY8?usp=drive_link)
 
 ```
