@@ -9,6 +9,8 @@ myenv/
 # Local data
 data/
 
+#outputs
+outputs/annotated_inference.mp4
 
 # Training runs / weights
 runs/
