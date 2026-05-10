@@ -430,12 +430,12 @@ is often more useful than relying on only one method.
 
 The demo output video can be viewed here:
 
-- Output Demo Video: [Google Drive Link](https://drive.google.com/drive/u/1/folders/1bX0WdUEeNtNh7xgCSl-LUSIyUEwBAGw1)
+- Output Demo Video: [Google Drive Link](https://drive.google.com/drive/folders/1bX0WdUEeNtNh7xgCSl-LUSIyUEwBAGw1?usp=drive_link)
 
 ## Model Weights
 
 The trained model weights can be downloaded here:
 
-- YOLO Detector Weights (`best.pt`): [Google Drive Link](https://drive.google.com/drive/u/1/folders/1lk60-mNTM-nK5Cb56hm22FtHBlDUMdJb)
+- YOLO Detector Weights (`best.pt`): [Google Drive Link](https://drive.google.com/drive/folders/11MUWoXA6QRaBqiLJh01k1LuyKFnp4RY8?usp=drive_link
 
 ```
