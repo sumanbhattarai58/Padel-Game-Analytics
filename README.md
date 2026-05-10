@@ -423,7 +423,7 @@ The main learning from this project is that for sports analytics, especially for
 - rule-based reasoning
 
 is often more useful than relying on only one method.
-```
+
 ---
 
 ## Demo Video
@@ -437,3 +437,5 @@ The demo output video can be viewed here:
 The trained model weights can be downloaded here:
 
 - YOLO Detector Weights (`best.pt`): [Google Drive Link](https://drive.google.com/drive/u/1/folders/1lk60-mNTM-nK5Cb56hm22FtHBlDUMdJb)
+
+```
