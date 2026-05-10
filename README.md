@@ -424,3 +424,16 @@ The main learning from this project is that for sports analytics, especially for
 
 is often more useful than relying on only one method.
 ```
+---
+
+## Demo Video
+
+The demo output video can be viewed here:
+
+- Output Demo Video: [Google Drive Link](PASTE_DEMO_VIDEO_LINK_HERE)
+
+## Model Weights
+
+The trained model weights can be downloaded here:
+
+- YOLO Detector Weights (`best.pt`): [Google Drive Link](PASTE_MODEL_LINK_HERE)
